@@ -2,6 +2,14 @@
 
 AI-powered travel planning assistant that helps you find flights and hotels with intelligent recommendations.
 
+## Agent flow
+
+![travel_agent_graph](https://github.com/user-attachments/assets/dbe746fe-0330-4da5-8a0e-addb4bdd0422)
+
+## Demo
+
+[![DEMO](https://img.youtube.com/vi/ACK04B8ZsYM/0.jpg)](https://www.youtube.com/watch?v=ACK04B8ZsYM)
+
 ## Quick Start (Recommended)
 
 ### Prerequisites
